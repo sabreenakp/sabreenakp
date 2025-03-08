@@ -1,45 +1,38 @@
-# Hi, I'm Sabreena KP! 🚀
+# 👋 Hi there, I'm Sabreena Kunikkottu Parambil
 
-![Cloud Engineer | Full-Stack Developer | AWS Enthusiast](https://img.shields.io/badge/Cloud%20Engineer-%E2%9C%85-blue) ![AWS](https://img.shields.io/badge/AWS-%F0%9F%9A%80-orange) ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-green)
+**Cloud Engineering and Full-Stack Development Expert**  
+With 8+ years of experience in **AWS**, **Cloud Infrastructure**, and **Full-Stack Web Systems**, I specialize in building scalable, secure, and high-performance cloud applications. I have a passion for **Infrastructure as Code (IaC)**, **Serverless architectures**, and leading **Agile teams**. I’m always excited to collaborate on innovative projects that push the boundaries of cloud technologies and full-stack development.
 
-## 🌟 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sabreenakp/)  
+Email: [kp.sabreena@gmail.com](mailto:kp.sabreena@gmail.com)  
+Phone: +61405469566
 
-Hi there! I'm **Sabreena Kunikkottu Parambil**, a passionate **Cloud Engineer & Full-Stack Developer** with over **8+ years of experience** in designing scalable web systems, cloud architectures, and automation solutions. I specialize in **AWS, JavaScript frameworks, and cloud security** to build high-performing, cost-effective solutions.
+---
 
-🔹 **Currently exploring AI, Security & Cloud FinOps**
-🔹 **Active AWS User Group Volunteer in Melbourne**
-🔹 **Seeking opportunities in Cloud Architecture, Security & DevOps**
+## 🚀 Technologies & Skills
 
-## 🛠️ Tech Stack & Tools
+### Full-Stack Development
+- **Frontend**: Angular, ReactJS, Ionic, HTML/CSS, JavaScript, TypeScript
+- **Backend**: Node.js, Express, Flask, Python
+- **Databases**: MySQL, PostgreSQL, MongoDB, DynamoDB, AWS RDS
+- **API Technologies**: REST, GraphQL, Apollo SuperGraph, JWT
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-%E2%9C%85-orange) ![Terraform](https://img.shields.io/badge/Terraform-%F0%9F%9A%80-purple) ![Docker](https://img.shields.io/badge/Docker-%F0%9F%92%A0-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%F0%9F%8D%80-blue)
+### Cloud Services & DevOps
+- **AWS**: Lambda, EC2, S3, Amplify, Cognito, API Gateway, RDS, SNS, SES, CloudWatch, VPC, IAM
+- **CI/CD**: AWS CodePipeline, CodeDeploy, Docker, GitHub, Nx, PM2
+- **Serverless**: AWS SAM, CloudFormation
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-%F0%9F%94%A5-green) ![Express.js](https://img.shields.io/badge/Express.js-%F0%9F%9A%A7-black) ![Flask](https://img.shields.io/badge/Flask-%F0%9F%8D%95-white) ![GraphQL](https://img.shields.io/badge/GraphQL-%F0%9F%8C%88-pink)
+### Testing & Quality Assurance
+- Mocha, Chai, Protractor, SonarQube
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-%F0%9F%92%8E-blue) ![Angular](https://img.shields.io/badge/Angular-%E2%9D%97-red) ![Ionic](https://img.shields.io/badge/Ionic-%E2%9C%A8-blue)
+### Project Management & Tools
+- JIRA, Confluence, Git, Bitbucket, Scrum, Agile
 
-**Databases & CI/CD:**  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-%F0%9F%93%8A-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%F0%9F%92%BE-blue) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%F0%9F%92%AA-black)
+---
 
-## 📈 Experience Highlights
+## 💼 Professional Experience
 
-🔹 **Senior Cloud Engineer** @ Zefasys – Designed scalable, cost-optimized AWS architectures.  
-🔹 **Senior Technical Analyst** @ Infosys – Led cloud migration and automation initiatives.  
-🔹 **Full-Stack Developer** @ FutureRx LLC – Built and deployed React & Node.js applications.  
-
-## 📚 Currently Learning
-
-🔹 **AI in Cloud (AWS Bedrock, OpenAI API)**  
-🔹 **Cloud Security & Compliance (AWS Security Specialty)**  
-🔹 **Cost Optimization & FinOps**  
-
-## 🌍 Let's Connect
-
-🔗 [LinkedIn](https://linkedin.com/in/sabreenakp)  
-🔗 [GitHub](https://github.com/sabreenakp)  
-🔗 [AWS User Group Melbourne](#)  
-
-💬 **Open to collaborations, discussions & learning opportunities!** 🚀
+### Senior Cloud Engineer | **Zefasys**  
+_Remote | May 2024 - Present_  
+- Architecting cloud infrastructure with **AWS**, **Amplify**, **CloudFormation**, **Lambda**, and **AppSync**.
+- Leading full-stack development with **Node.js**, **ReactJS**, and cloud tec
